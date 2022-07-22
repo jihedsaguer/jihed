@@ -1,2 +1,2 @@
-# jihed
-simple website 
+# portfolio 
+a modern dynamic portfolio website
